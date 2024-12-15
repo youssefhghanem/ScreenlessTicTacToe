@@ -3,7 +3,9 @@ Python Code for my group's project in a course callsed 'Interactions Beyond Scre
 
 ## Project Overview
 
-This project was developed as part of CCT490: Interactions Beyond Screens course. It reimagines the classic Tic-Tac-Toe game by removing the screen interface entirely and replacing it with physical LED lights and button controls. The game is built on a transparent acrylic board, creating a unique, tactile gaming experience.
+This project was developed as part of CCT490: Interactions Beyond Screens course. It reimagines the classic Tic-Tac-Toe game by removing the screen interface entirely and replacing it with physical LED lights and button controls. The game is built on a transparent acrylic board, creating a unique, tactile gaming experience. 
+Our implementation was closely inspired by Michael Granberry, a student of computer science at CSU, who created a similar interaction but with C++, a screen and just 2 LED's to indicate the turn:
+https://github.com/michaelgranberryii/rpi-pico-tictactoe 
 
 ### Key Features
 
